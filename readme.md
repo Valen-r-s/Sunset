@@ -28,11 +28,10 @@ npm run build
 - **Tools:** Node.js, npm, lil-gui
 
 ## 📍 Site
-[![Website](https://img.shields.io/badge/Sunset%20-%20orange)](https://sunset-nine.vercel.app/)
+[![Sunset](https://img.shields.io/badge/Sunset%20-%20orange?style=for-the-badge&logo=firebase&logoColor=yellow)](https://sunset-nine.vercel.app/) <br>
 ![sunsetSS](https://github.com/user-attachments/assets/727736ef-c65d-4f6d-b615-5ccd5b6fb90c)
 
 ## 🔗 Contact Information
+[![portfolio](https://img.shields.io/badge/My%20portfolio%20-%20hotpink?style=for-the-badge&logo=kofi&logoColor=black)](https://portfolio-86-seven.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn%20-%20blue?style=for-the-badge&logo=linkedin&logoColor=snow)](https://www.linkedin.com/in/valentina-restrepo-0389812a2/)
 
-[![Vercel](https://img.shields.io/badge/Vercel-black?logo=vercel)](https://vercel.com/valen-r-s)
-[![GitHub](https://img.shields.io/badge/GitHub-purple?logo=github)](https://github.com/Valen-r-s)
-[![linkedin](https://img.shields.io/badge/LinkedIn-blue?logo=LinkedIn)](https://www.linkedin.com/in/valentina-restrepo-0389812a2/)
